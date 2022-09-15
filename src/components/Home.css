@@ -1,0 +1,29 @@
+.home{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid gray;
+}
+
+.search{
+    margin: 0px 20px;
+}
+
+.dropdown{
+    margin: 0px 10px;
+}
+
+.reset{
+    margin: 0px 20px;
+}
+
+.watchlist-button{
+    margin: 0px 20px;
+}
